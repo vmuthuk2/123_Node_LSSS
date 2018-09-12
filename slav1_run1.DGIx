@@ -1,0 +1,2174 @@
+ARMADILLO LINK CONFIRMATION
+   1.1457   0.9011   1.6260   1.2298
+   0.8484   1.0444   1.6753   1.2946
+   1.5009   1.2935   2.2019   2.0497
+   0.6165   0.7583   1.4153   0.9662
+
+2018-Sep-11 21:48:27.689923 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Sep-11 21:48:27.690968 : CAdapterFactory.cpp : Status(4):
+	Plug and play devices disabled.
+2018-Sep-11 21:48:27.691072 : CAdapterFactory.cpp : Status(4):
+	System will start without adapters.
+2018-Sep-11 21:48:27.691400 : CAdapterFactory.cpp : Status(4):
+	Starting the adapter i/o service.
+2018-Sep-11 21:48:27.700982 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5010
+2018-Sep-11 21:48:27.701958 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5001
+2018-Sep-11 21:48:27.702106 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5002
+2018-Sep-11 21:48:27.702218 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5003
+2018-Sep-11 21:48:27.702318 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5004
+2018-Sep-11 21:48:27.702422 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5005
+2018-Sep-11 21:48:27.702525 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5006
+2018-Sep-11 21:48:27.702624 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5007
+2018-Sep-11 21:48:27.702726 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5008
+2018-Sep-11 21:48:27.702825 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5009
+2018-Sep-11 21:48:27.702928 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5010
+2018-Sep-11 21:48:27.703023 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5011
+2018-Sep-11 21:48:27.703119 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5012
+2018-Sep-11 21:48:27.703228 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5013
+2018-Sep-11 21:48:27.703331 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5014
+2018-Sep-11 21:48:27.703434 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5015
+2018-Sep-11 21:48:27.703537 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5016
+2018-Sep-11 21:48:27.703642 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5017
+2018-Sep-11 21:48:27.703745 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5018
+2018-Sep-11 21:48:27.703844 : GroupManagement.cpp : Notice(5):
+	All peers added 18
+2018-Sep-11 21:48:27.703939 : GroupManagement.cpp : Notice(5):
+	! arrogate:5001 added to peer set
+2018-Sep-11 21:48:27.704029 : GroupManagement.cpp : Notice(5):
+	! arrogate:5002 added to peer set
+2018-Sep-11 21:48:27.704125 : GroupManagement.cpp : Notice(5):
+	! arrogate:5003 added to peer set
+2018-Sep-11 21:48:27.704225 : GroupManagement.cpp : Notice(5):
+	! arrogate:5004 added to peer set
+2018-Sep-11 21:48:27.704322 : GroupManagement.cpp : Notice(5):
+	! arrogate:5005 added to peer set
+2018-Sep-11 21:48:27.704416 : GroupManagement.cpp : Notice(5):
+	! arrogate:5006 added to peer set
+2018-Sep-11 21:48:27.704503 : GroupManagement.cpp : Notice(5):
+	! arrogate:5007 added to peer set
+2018-Sep-11 21:48:27.704601 : GroupManagement.cpp : Notice(5):
+	! arrogate:5008 added to peer set
+2018-Sep-11 21:48:27.704693 : GroupManagement.cpp : Notice(5):
+	! arrogate:5009 added to peer set
+2018-Sep-11 21:48:27.704784 : GroupManagement.cpp : Notice(5):
+	! arrogate:5010 added to peer set
+2018-Sep-11 21:48:27.704881 : GroupManagement.cpp : Notice(5):
+	! arrogate:5011 added to peer set
+2018-Sep-11 21:48:27.704981 : GroupManagement.cpp : Notice(5):
+	! arrogate:5012 added to peer set
+2018-Sep-11 21:48:27.705102 : GroupManagement.cpp : Notice(5):
+	! arrogate:5013 added to peer set
+2018-Sep-11 21:48:27.705195 : GroupManagement.cpp : Notice(5):
+	! arrogate:5014 added to peer set
+2018-Sep-11 21:48:27.705283 : GroupManagement.cpp : Notice(5):
+	! arrogate:5015 added to peer set
+2018-Sep-11 21:48:27.705380 : GroupManagement.cpp : Notice(5):
+	! arrogate:5016 added to peer set
+2018-Sep-11 21:48:27.705478 : GroupManagement.cpp : Notice(5):
+	! arrogate:5017 added to peer set
+2018-Sep-11 21:48:27.705574 : GroupManagement.cpp : Notice(5):
+	! arrogate:5018 added to peer set
+2018-Sep-11 21:48:27.705669 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 441
+2018-Sep-11 21:48:27.705759 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289384 (arrogate:5003)
+2018-Sep-11 21:48:27.705863 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 454
+2018-Sep-11 21:48:27.705951 : GroupManagement.cpp : Notice(5):
+	+ State Change NORMAL : 457
+2018-Sep-11 21:48:27.707256 : CConnectionManager.cpp : Warn(3):
+	EP = [::1]:5003
+2018-Sep-11 21:48:27.708755 : GroupManagement.cpp : Notice(5):
+	Updated peer set (UPDATE)
+2018-Sep-11 21:48:27.739144 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5009
+2018-Sep-11 21:48:28.220342 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 1) for 3680 ms
+2018-Sep-11 21:48:28.220486 : CBroker.cpp : Notice(5):
+	Phase: lb for 3680ms offset 00:00:00
+2018-Sep-11 21:48:28.220565 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:28.220641 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:28.220845 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5003
+2018-Sep-11 21:48:31.900842 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:48:31.901068 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00
+2018-Sep-11 21:48:31.901150 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00
+2018-Sep-11 21:48:31.901195 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:31.901241 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+ --------------------VVC ---------------------------------
+2018-Sep-11 21:48:31.901346 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5003
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:48:34.055867 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5001
+2018-Sep-11 21:48:34.140341 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5006
+2018-Sep-11 21:48:34.940522 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5002
+2018-Sep-11 21:48:34.959115 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5007
+2018-Sep-11 21:48:36.001335 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:48:36.001398 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00
+2018-Sep-11 21:48:36.001429 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:36.001462 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:36.001536 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 10010000000000000000000000000000
+2018-Sep-11 21:48:36.001574 : GroupManagement.cpp : Status(4):
+	Group Float : 1.26117e-44
+2018-Sep-11 21:48:36.001648 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289384 Leader:arrogate:5003
+SYSTEM NODES
+Node: arrogate:5001 State: Unknown
+Node: arrogate:5002 State: Unknown
+Node: arrogate:5003 State: Up (Me, Coordinator)
+Node: arrogate:5004 State: Unknown
+Node: arrogate:5005 State: Unknown
+Node: arrogate:5006 State: Unknown
+Node: arrogate:5007 State: Unknown
+Node: arrogate:5008 State: Unknown
+Node: arrogate:5009 State: Unknown
+Node: arrogate:5010 State: Unknown
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00
+Time left in phase: 00:00:00.528692
+
+2018-Sep-11 21:48:36.001933 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5004
+2018-Sep-11 21:48:36.002121 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5005
+2018-Sep-11 21:48:36.002407 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5008
+2018-Sep-11 21:48:36.002692 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:48:36.002867 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:48:36.003043 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:48:36.003210 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:48:36.003379 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:48:36.003551 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:48:36.003727 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:48:36.003902 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:48:36.113454 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 1084
+2018-Sep-11 21:48:36.113529 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289392 (arrogate:5010) 
+2018-Sep-11 21:48:36.113740 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 1127
+2018-Sep-11 21:48:36.327288 : GroupManagement.cpp : Notice(5):
+	+ State change: NORMAL: 944
+2018-Sep-11 21:48:36.328001 : GroupManagement.cpp : Notice(5):
+	Updated Peer Set.
+2018-Sep-11 21:48:36.533079 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 317 ms
+2018-Sep-11 21:48:36.533245 : CBroker.cpp : Notice(5):
+	Phase: sc for 317ms offset 00:00:00
+2018-Sep-11 21:48:36.533367 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:36.533437 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:36.533636 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.533693 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:36.533769 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:36.535145 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.535209 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.535400 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.535459 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.535620 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.535679 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.535813 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.535928 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.540360 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.540997 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.543827 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.543902 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.850625 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 2) for 0 ms
+2018-Sep-11 21:48:36.850807 : CBroker.cpp : Notice(5):
+	Phase: sc for 0ms offset 00:00:00
+2018-Sep-11 21:48:36.850948 : CBroker.cpp : Notice(5):
+	Phase: lb for 4100ms offset 00:00:00
+2018-Sep-11 21:48:36.851041 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:36.851325 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5010
+2018-Sep-11 21:48:36.851622 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:48:36.851729 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:37.694650 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00
+2018-Sep-11 21:48:37.695933 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.0021255
+2018-Sep-11 21:48:37.696842 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.0025125
+2018-Sep-11 21:48:37.697430 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0025855
+2018-Sep-11 21:48:37.698005 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.002766
+2018-Sep-11 21:48:37.698471 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.002793
+2018-Sep-11 21:48:37.698903 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.0031105
+2018-Sep-11 21:48:37.699319 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.002446
+2018-Sep-11 21:48:37.699719 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0025885
+2018-Sep-11 21:48:37.995273 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.151628
+2018-Sep-11 21:48:40.951287 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4099 ms
+2018-Sep-11 21:48:40.951464 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4099ms offset 00:00:00
+2018-Sep-11 21:48:40.951559 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:40.951664 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:40.952430 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5010
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:48:45.057207 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 523 ms
+2018-Sep-11 21:48:45.057874 : CBroker.cpp : Notice(5):
+	Phase: gm for 523ms offset 00:00:00
+2018-Sep-11 21:48:45.058404 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:45.058513 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:45.058684 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:48:45.058775 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:48:45.058886 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289392 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00
+Time left in phase: 00:00:00.521333
+
+2018-Sep-11 21:48:45.059812 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 441
+2018-Sep-11 21:48:45.059940 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289385 (arrogate:5003)
+2018-Sep-11 21:48:45.060019 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 454
+2018-Sep-11 21:48:45.060076 : GroupManagement.cpp : Notice(5):
+	+ State Change NORMAL : 457
+2018-Sep-11 21:48:45.060424 : GroupManagement.cpp : Notice(5):
+	Updated peer set (UPDATE)
+2018-Sep-11 21:48:45.582401 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:48:45.582505 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset 00:00:00
+2018-Sep-11 21:48:45.582572 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:45.582612 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:45.582672 : StateCollection.cpp : Status(4):
+	Device Item:  ..Sst:gateway
+2018-Sep-11 21:48:45.582706 : StateCollection.cpp : Notice(5):
+	Receiving state collect request from lb ( arrogate:5003 )
+2018-Sep-11 21:48:45.582800 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:45.901270 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Sep-11 21:48:45.901367 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset 00:00:00
+2018-Sep-11 21:48:45.901422 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:45.901547 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5003
+2018-Sep-11 21:48:45.901693 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	---------------------------------------------
+2018-Sep-11 21:48:45.901760 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:47.699133 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to -00:00:00.000083
+2018-Sep-11 21:48:47.700515 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00244375
+2018-Sep-11 21:48:47.701053 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0770365
+2018-Sep-11 21:48:47.701563 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00285575
+2018-Sep-11 21:48:47.702258 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00276825
+2018-Sep-11 21:48:47.702614 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00291775
+2018-Sep-11 21:48:47.703014 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00298025
+2018-Sep-11 21:48:47.703550 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.0032915
+2018-Sep-11 21:48:47.704059 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.002582
+2018-Sep-11 21:48:47.704554 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.00268025
+2018-Sep-11 21:48:50.000461 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:48:50.000683 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset -00:00:00.000083
+2018-Sep-11 21:48:50.000869 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset -00:00:00.000083
+2018-Sep-11 21:48:50.001017 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:50.001143 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:50.001746 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5003
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:48:54.101372 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:48:54.101513 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset -00:00:00.000083
+2018-Sep-11 21:48:54.101589 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:54.101671 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:54.101817 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 10010000000000000000000000000000
+2018-Sep-11 21:48:54.101916 : GroupManagement.cpp : Status(4):
+	Group Float : 1.26117e-44
+2018-Sep-11 21:48:54.102081 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289385 Leader:arrogate:5003
+SYSTEM NODES
+Node: arrogate:5001 State: Unknown
+Node: arrogate:5002 State: Unknown
+Node: arrogate:5003 State: Up (Me, Coordinator)
+Node: arrogate:5004 State: Unknown
+Node: arrogate:5005 State: Unknown
+Node: arrogate:5006 State: Unknown
+Node: arrogate:5007 State: Unknown
+Node: arrogate:5008 State: Unknown
+Node: arrogate:5009 State: Unknown
+Node: arrogate:5010 State: Unknown
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: -00:00:00.000083
+Time left in phase: 00:00:00.528311
+
+2018-Sep-11 21:48:54.146024 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 1084
+2018-Sep-11 21:48:54.146135 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289394 (arrogate:5010) 
+2018-Sep-11 21:48:54.146435 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 1127
+2018-Sep-11 21:48:54.359349 : GroupManagement.cpp : Notice(5):
+	+ State change: NORMAL: 944
+2018-Sep-11 21:48:54.361443 : GroupManagement.cpp : Notice(5):
+	Updated Peer Set.
+2018-Sep-11 21:48:54.640858 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 310 ms
+2018-Sep-11 21:48:54.641022 : CBroker.cpp : Notice(5):
+	Phase: sc for 310ms offset -00:00:00.000083
+2018-Sep-11 21:48:54.641116 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:54.641213 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:54.641587 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.641695 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:54.641834 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:54.643919 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.644856 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.645509 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.646014 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.646558 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.647054 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.647657 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.649096 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.649616 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.650001 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.650458 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.650852 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.653213 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.653626 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:48:54.654034 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 27
+2018-Sep-11 21:48:54.654434 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5006 + 28
+2018-Sep-11 21:48:54.654848 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:48:54.655866 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.656629 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.658098 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.658739 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.659251 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:48:54.659681 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:48:54.660384 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.661656 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:54.662053 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:54.664687 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.665081 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.665602 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.665989 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.667043 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.667651 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.668339 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.668762 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.670843 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.673208 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.674293 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.675831 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.678798 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.678878 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.684965 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.685048 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.685085 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:48:54.685125 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:48:54.951477 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Sep-11 21:48:54.951657 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset -00:00:00.000083
+2018-Sep-11 21:48:54.951763 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:54.952129 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5010
+2018-Sep-11 21:48:54.953414 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:48:54.953530 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:57.703605 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.007460
+2018-Sep-11 21:48:57.712659 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.002593
+2018-Sep-11 21:48:57.713220 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00293983
+2018-Sep-11 21:48:57.713817 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00293317
+2018-Sep-11 21:48:57.714398 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00314933
+2018-Sep-11 21:48:57.714929 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0526557
+2018-Sep-11 21:48:57.715397 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.0032645
+2018-Sep-11 21:48:57.716111 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00320467
+2018-Sep-11 21:48:57.716699 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.00275783
+2018-Sep-11 21:48:57.717399 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00278833
+2018-Sep-11 21:48:58.251855 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5011 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.252113 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5012 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.252316 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5013 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.252577 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5014 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.252786 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5015 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.252955 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5016 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.253157 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5017 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.257103 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5018 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:59.058679 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4092 ms
+2018-Sep-11 21:48:59.058904 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4092ms offset 00:00:00.007460
+2018-Sep-11 21:48:59.058992 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:59.059076 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:59.059300 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5010
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:03.151334 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:49:03.151558 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00.007460
+2018-Sep-11 21:49:03.151679 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:03.151810 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:03.152038 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:03.152174 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:03.152451 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.007460
+Time left in phase: 00:00:00.527910
+
+2018-Sep-11 21:49:03.682177 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:49:03.682465 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset 00:00:00.007460
+2018-Sep-11 21:49:03.682538 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:03.682594 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:03.682682 : StateCollection.cpp : Status(4):
+	Device Item:  ..Sst:gateway
+2018-Sep-11 21:49:03.682740 : StateCollection.cpp : Notice(5):
+	Receiving state collect request from lb ( arrogate:5003 )
+2018-Sep-11 21:49:03.682835 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.682886 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.682972 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.684235 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.684296 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.684407 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.684451 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.684537 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.684576 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.684653 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.690149 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.690216 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.690274 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5003 + 29
+2018-Sep-11 21:49:03.690327 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.690378 : StateCollection.cpp : Status(4):
+	Incoming marker is from leader, follow the leader
+2018-Sep-11 21:49:03.690456 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.696871 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.696920 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.696956 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.696988 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5006 + 29
+2018-Sep-11 21:49:03.697019 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.697137 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.697170 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.697257 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.697287 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.697411 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.697446 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.697479 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.698771 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5001 + 29
+2018-Sep-11 21:49:03.698808 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.701577 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.701879 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.702348 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.702643 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.704577 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.704984 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.705344 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.705645 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.706680 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.707009 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.710541 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.710878 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.711284 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.711684 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.712884 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.714006 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.714417 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.717765 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.718171 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.720365 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5002 + 29
+2018-Sep-11 21:49:03.720867 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.721409 : StateCollection.cpp : Status(4):
+	Incoming marker is from leader, follow the leader
+2018-Sep-11 21:49:03.722219 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.724327 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.724767 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.725379 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.727183 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.727619 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.731760 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5001 + 29
+2018-Sep-11 21:49:03.732504 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.733960 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.734677 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.735186 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.735823 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.736434 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.736989 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5005 + 29
+2018-Sep-11 21:49:03.737580 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.738999 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.742627 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.744118 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.745428 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.745924 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.746345 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.746733 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.747300 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.747823 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.748302 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.748852 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.749435 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.750377 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.752068 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.752498 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.752805 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.753268 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.753600 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.753976 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.754274 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.754570 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.755095 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.755631 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.756365 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.756970 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.757489 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.758115 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.758579 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.759370 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.759923 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.761684 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.762240 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.762871 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.763508 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.764760 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.765461 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.765924 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.769838 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.770806 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.772041 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.772693 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.773377 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5005 + 29
+2018-Sep-11 21:49:03.774000 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.774773 : StateCollection.cpp : Status(4):
+	Incoming marker is from leader, follow the leader
+2018-Sep-11 21:49:03.775506 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.779128 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.779797 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.782209 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.783313 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.784352 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.785531 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.787966 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.792207 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.793830 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.794540 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.795055 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.795090 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.795437 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.795475 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.795574 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.795610 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.795642 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.795683 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.795899 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.795930 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.795978 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.800116 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.800164 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.800271 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.800305 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.801971 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.802052 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.804974 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.805017 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.806384 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.806423 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.806537 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.806574 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.807748 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.807786 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.813615 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.813662 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.813697 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.813735 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.819120 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.819164 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.819215 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.828139 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.828188 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.828291 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.828329 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.828423 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.828459 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.828567 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.828604 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.829977 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.830018 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.830114 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.830148 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.832181 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.832224 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.832479 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.832699 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.832734 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.832772 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:04.000905 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 2) for 0 ms
+2018-Sep-11 21:49:04.000993 : CBroker.cpp : Notice(5):
+	Phase: sc for 0ms offset 00:00:00.007460
+2018-Sep-11 21:49:04.001031 : CBroker.cpp : Notice(5):
+	Phase: lb for 4100ms offset 00:00:00.007460
+2018-Sep-11 21:49:04.001065 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:04.001206 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:04.001238 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:07.712555 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5011 has gone stale 
+2018-Sep-11 21:49:07.712983 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:49:07.713324 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5012 has gone stale 
+2018-Sep-11 21:49:07.713619 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:49:07.713946 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5013 has gone stale 
+2018-Sep-11 21:49:07.714258 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:49:07.714518 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5014 has gone stale 
+2018-Sep-11 21:49:07.714764 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:49:07.715017 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5015 has gone stale 
+2018-Sep-11 21:49:07.715250 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:49:07.715497 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5016 has gone stale 
+2018-Sep-11 21:49:07.715725 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:49:07.715948 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5017 has gone stale 
+2018-Sep-11 21:49:07.716184 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:49:07.716410 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5018 has gone stale 
+2018-Sep-11 21:49:07.716635 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:49:07.717187 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.002264
+2018-Sep-11 21:49:07.712291 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.002697
+2018-Sep-11 21:49:07.712786 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00300188
+2018-Sep-11 21:49:07.713269 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0403258
+2018-Sep-11 21:49:07.713698 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.0031975
+2018-Sep-11 21:49:07.714002 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00321813
+2018-Sep-11 21:49:07.714346 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.003371
+2018-Sep-11 21:49:07.714685 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00318863
+2018-Sep-11 21:49:07.715125 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00249738
+2018-Sep-11 21:49:07.715475 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.00253038
+2018-Sep-11 21:49:08.096060 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 4 ms
+2018-Sep-11 21:49:08.096366 : CBroker.cpp : Notice(5):
+	Phase: lb for 4ms offset 00:00:00.002264
+2018-Sep-11 21:49:08.100738 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.002264
+2018-Sep-11 21:49:08.100929 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:08.101052 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:12.201239 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:49:12.201334 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00.002264
+2018-Sep-11 21:49:12.201371 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:12.201411 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:12.201491 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:12.201543 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:12.201624 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.002264
+Time left in phase: 00:00:00.528621
+
+2018-Sep-11 21:49:12.730911 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 1) for 0 ms
+2018-Sep-11 21:49:12.731095 : CBroker.cpp : Notice(5):
+	Phase: gm for 0ms offset 00:00:00.002264
+2018-Sep-11 21:49:12.731174 : CBroker.cpp : Notice(5):
+	Phase: sc for 320ms offset 00:00:00.002264
+2018-Sep-11 21:49:12.731227 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:12.731276 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:12.731333 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.731401 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:12.731469 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:12.732178 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.732231 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.732319 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.732383 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.732476 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.732528 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.732633 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.732696 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.732783 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.732824 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.734331 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.734372 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736112 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.736157 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.737366 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.737416 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.737451 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:12.737490 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:13.052215 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:49:13.052333 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset 00:00:00.002264
+2018-Sep-11 21:49:13.052382 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:13.052609 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:13.052697 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:17.150553 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:17.150756 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.002264
+2018-Sep-11 21:49:17.150918 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.002264
+2018-Sep-11 21:49:17.151027 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:17.151130 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:17.713436 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000752
+2018-Sep-11 21:49:17.712372 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.0023484
+2018-Sep-11 21:49:17.712695 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0324238
+2018-Sep-11 21:49:17.712840 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.0026341
+2018-Sep-11 21:49:17.712983 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0027383
+2018-Sep-11 21:49:17.713108 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.0028927
+2018-Sep-11 21:49:17.713246 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.0027786
+2018-Sep-11 21:49:17.713370 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.0027691
+2018-Sep-11 21:49:17.713505 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0021608
+2018-Sep-11 21:49:19.229002 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.15374
+2018-Sep-11 21:49:21.249801 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 0) for 1 ms
+2018-Sep-11 21:49:21.250024 : CBroker.cpp : Notice(5):
+	Phase: vvc for 1ms offset 00:00:00.000752
+2018-Sep-11 21:49:21.251272 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00.000752
+2018-Sep-11 21:49:21.252027 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:21.252118 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:21.252267 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:21.252354 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:21.252509 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000752
+Time left in phase: 00:00:00.528729
+
+2018-Sep-11 21:49:21.782839 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:49:21.782929 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset 00:00:00.000752
+2018-Sep-11 21:49:21.782975 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:21.783021 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:21.783094 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.783144 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:21.783216 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:21.784231 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784287 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.784450 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784498 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.784588 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784635 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.784694 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784741 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.784829 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784877 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.784932 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.784978 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.788282 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.788362 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.792308 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.792395 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.792442 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:21.792494 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:22.102327 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:49:22.102491 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset 00:00:00.000752
+2018-Sep-11 21:49:22.102565 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:22.102845 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:22.102918 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:26.200702 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:26.200795 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.000752
+2018-Sep-11 21:49:26.200887 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.000752
+2018-Sep-11 21:49:26.200938 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:26.200993 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:27.713702 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.032432
+2018-Sep-11 21:49:27.745576 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00211625
+2018-Sep-11 21:49:27.745734 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00238708
+2018-Sep-11 21:49:27.745879 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00237508
+2018-Sep-11 21:49:27.746021 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0272069
+2018-Sep-11 21:49:27.746169 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00254792
+2018-Sep-11 21:49:27.746316 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00244792
+2018-Sep-11 21:49:27.746462 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00247258
+2018-Sep-11 21:49:27.746606 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00190725
+2018-Sep-11 21:49:28.286427 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.173211
+2018-Sep-11 21:49:30.332783 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 498 ms
+2018-Sep-11 21:49:30.332897 : CBroker.cpp : Notice(5):
+	Phase: gm for 498ms offset 00:00:00.032432
+2018-Sep-11 21:49:30.332949 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:30.333004 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:30.333115 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:30.333185 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:30.333304 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.032432
+Time left in phase: 00:00:00.497490
+
+2018-Sep-11 21:49:30.831623 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Sep-11 21:49:30.831767 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00.032432
+2018-Sep-11 21:49:30.831873 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:30.831972 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:30.832125 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.832309 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:30.832501 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:30.834245 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.834325 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.834442 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.834504 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.834600 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.834648 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.835737 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.835902 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.846823 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.846904 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.860904 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.860976 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.866210 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.866275 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.866432 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.866478 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.866522 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:30.866574 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:31.153288 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4097 ms
+2018-Sep-11 21:49:31.153422 : CBroker.cpp : Notice(5):
+	Phase: lb for 4097ms offset 00:00:00.032432
+2018-Sep-11 21:49:31.153502 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:31.153764 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:31.153833 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:35.250683 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:35.250801 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.032432
+2018-Sep-11 21:49:35.250895 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.032432
+2018-Sep-11 21:49:35.250953 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:35.251027 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) 0
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:36.228764 : VoltVarCtrl.cpp : Notice(5):
+	Got Gradients from arrogate:5001
+2018-Sep-11 21:49:36.228812 : VoltVarCtrl.cpp : Notice(5):
+	size of vector 35
+2018-Sep-11 21:49:37.749374 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.026735
+2018-Sep-11 21:49:37.744813 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.002146
+2018-Sep-11 21:49:37.745418 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00240186
+2018-Sep-11 21:49:37.745904 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0237078
+2018-Sep-11 21:49:37.746376 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00252679
+2018-Sep-11 21:49:37.746836 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00248736
+2018-Sep-11 21:49:37.747252 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00248186
+2018-Sep-11 21:49:37.747711 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00254779
+2018-Sep-11 21:49:37.748191 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00196636
+2018-Sep-11 21:49:37.748661 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.148839
+2018-Sep-11 21:49:39.345518 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 0) for 5 ms
+2018-Sep-11 21:49:39.345739 : CBroker.cpp : Notice(5):
+	Phase: vvc for 5ms offset 00:00:00.026735
+2018-Sep-11 21:49:39.350904 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00.026735
+2018-Sep-11 21:49:39.351011 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:39.351085 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:39.351160 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:39.351207 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:39.351303 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.026735
+Time left in phase: 00:00:00.529557
+
+2018-Sep-11 21:49:39.881648 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Sep-11 21:49:39.881761 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00.026735
+2018-Sep-11 21:49:39.881820 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:39.881887 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:39.881978 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.882034 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:39.882126 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:39.883327 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.883397 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.883516 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.883576 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.883682 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.883741 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.890650 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.892077 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.901315 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.902709 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.909923 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.910357 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.910793 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.911607 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.914114 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.916207 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.916620 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:39.917015 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:40.202341 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:49:40.202494 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset 00:00:00.026735
+2018-Sep-11 21:49:40.202609 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:40.202888 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:40.202983 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:41.851817 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5011 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.852432 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5012 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.852738 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5013 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.853040 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5014 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.853353 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5015 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.853666 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5016 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.853972 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5017 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:41.854527 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5018 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:44.300728 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:44.300832 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.026735
+2018-Sep-11 21:49:44.300908 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.026735
+2018-Sep-11 21:49:44.300953 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:44.300999 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+Gradient Values: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+loaded okay
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) -73.4645
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:47.745168 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5011 has gone stale 
+2018-Sep-11 21:49:47.745598 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:49:47.745957 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5012 has gone stale 
+2018-Sep-11 21:49:47.746311 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:49:47.746695 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5013 has gone stale 
+2018-Sep-11 21:49:47.746991 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:49:47.747275 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5014 has gone stale 
+2018-Sep-11 21:49:47.747529 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:49:47.747819 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5015 has gone stale 
+2018-Sep-11 21:49:47.748095 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:49:47.748364 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5016 has gone stale 
+2018-Sep-11 21:49:47.748614 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:49:47.748858 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5017 has gone stale 
+2018-Sep-11 21:49:47.749063 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:49:47.749283 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5018 has gone stale 
+2018-Sep-11 21:49:47.749506 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:49:47.750150 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.014395
+2018-Sep-11 21:49:47.738859 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00232525
+2018-Sep-11 21:49:47.739348 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00256675
+2018-Sep-11 21:49:47.739839 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00264456
+2018-Sep-11 21:49:47.740248 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00270144
+2018-Sep-11 21:49:47.740638 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00271856
+2018-Sep-11 21:49:47.741039 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0212989
+2018-Sep-11 21:49:47.741489 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00271125
+2018-Sep-11 21:49:47.741854 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.130502
+2018-Sep-11 21:49:47.742217 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.002004
+2018-Sep-11 21:49:48.388759 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 0) for 12 ms
+2018-Sep-11 21:49:48.388921 : CBroker.cpp : Notice(5):
+	Phase: vvc for 12ms offset 00:00:00.014395
+2018-Sep-11 21:49:48.401106 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00.014395
+2018-Sep-11 21:49:48.401242 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:48.401318 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:48.401431 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:48.401506 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:48.401627 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.014395
+Time left in phase: 00:00:00.529437
+
+2018-Sep-11 21:49:48.931950 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Sep-11 21:49:48.932133 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00.014395
+2018-Sep-11 21:49:48.932237 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:48.932330 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:48.932458 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.932541 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:48.932671 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:48.934357 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.935306 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.935759 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.935857 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.936029 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.936121 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.942796 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.942876 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.950002 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.954277 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.964122 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.965023 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.965718 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.966229 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.967663 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.969033 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.969915 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:48.971795 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:49.253411 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4097 ms
+2018-Sep-11 21:49:49.253553 : CBroker.cpp : Notice(5):
+	Phase: lb for 4097ms offset 00:00:00.014395
+2018-Sep-11 21:49:49.253626 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:49.253917 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:49.253983 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:53.350879 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:53.351221 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.014395
+2018-Sep-11 21:49:53.351375 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.014395
+2018-Sep-11 21:49:53.351495 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:53.351724 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) -73.4645
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
+2018-Sep-11 21:49:57.451956 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:49:57.452100 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00.014395
+2018-Sep-11 21:49:57.452160 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:57.452232 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:57.452404 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:57.452501 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:57.452667 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5003, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (In Group)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (Me)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.014395
+Time left in phase: 00:00:00.528303
+
+2018-Sep-11 21:49:57.740580 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.006604
+2018-Sep-11 21:49:57.733814 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00226006
+2018-Sep-11 21:49:57.734198 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0191317
+2018-Sep-11 21:49:57.734563 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00259383
+2018-Sep-11 21:49:57.734943 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.002583
+2018-Sep-11 21:49:57.735220 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00254483
+2018-Sep-11 21:49:57.735606 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00267661
+2018-Sep-11 21:49:57.737220 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00274078
+2018-Sep-11 21:49:57.737912 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5001): 0.116297
+2018-Sep-11 21:49:57.739749 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00217294
+2018-Sep-11 21:49:57.974458 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 1) for 6 ms
+2018-Sep-11 21:49:57.974598 : CBroker.cpp : Notice(5):
+	Phase: gm for 6ms offset 00:00:00.006604
+2018-Sep-11 21:49:57.980773 : CBroker.cpp : Notice(5):
+	Phase: sc for 320ms offset 00:00:00.006604
+2018-Sep-11 21:49:57.981106 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:57.981160 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:57.981229 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.981268 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:57.981324 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:57.982033 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.984016 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.984126 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.984166 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.984246 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.984287 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.987095 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.987283 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.989417 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.989469 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.993719 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.993772 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.993896 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.993939 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.996657 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.996703 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.996740 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:57.996783 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:58.302097 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:49:58.302193 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset 00:00:00.006604
+2018-Sep-11 21:49:58.302237 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:58.302487 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net DESD (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:58.302538 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:50:02.400490 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:50:02.400677 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.006604
+2018-Sep-11 21:50:02.400784 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.006604
+2018-Sep-11 21:50:02.400830 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:50:02.400885 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Size of Grad_slave1 is: 35*1
+ gradient not received ... keep default setting for SSTs 
+SSTs under Slave #1: Node 20 & 23 
+
+Phase A Command (in kVar) -73.4645
+Phase B Command (in kVar) 0
+Phase C Command (in kVar) 0
