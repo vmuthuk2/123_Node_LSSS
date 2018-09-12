@@ -989,9 +989,9 @@ if (td.minutes() > 1 || (td.minutes() == 1 && td.seconds() > 0) || (i==0 && td.s
 	Dl.col(11) = load_profile(i)*(Dl_ld.col(7) - Dl_pv.col(7));
 	for (int z = 0; z < 15; z++)
 	{
-		Dl(PV_node(i), 7) = Dl_old(PV_node(i), 7);
-		Dl(PV_node(i), 9) = Dl_old(PV_node(i), 9);
-		Dl(PV_node(i), 11) = Dl_old(PV_node(i), 11);
+		Dl(PV_node(z), 7) = Dl_old(PV_node(z), 7);
+		Dl(PV_node(z), 9) = Dl_old(PV_node(z), 9);
+		Dl(PV_node(z), 11) = Dl_old(PV_node(z), 11);
 	}
 
 	BOOST_FOREACH(CPeerNode peer, m_peers | boost::adaptors::map_values)
