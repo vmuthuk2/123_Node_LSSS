@@ -1,0 +1,4654 @@
+2018-Sep-11 21:48:24.050499 : PosixMain.cpp : Status(4):
+	adatper config not set
+ARMADILLO LINK CONFIRMATION
+   1.1457   0.9011   1.6260   1.2298
+   0.8484   1.0444   1.6753   1.2946
+   1.5009   1.2935   2.2019   2.0497
+   0.6165   0.7583   1.4153   0.9662
+
+DPF started at: 2018-Sep-11 21:48:24
+2018-Sep-11 21:48:24.053396 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Sep-11 21:48:24.054277 : CAdapterFactory.cpp : Status(4):
+	System will start no device classes.
+2018-Sep-11 21:48:24.054431 : CAdapterFactory.cpp : Status(4):
+	Plug and play devices disabled.
+2018-Sep-11 21:48:24.054582 : CAdapterFactory.cpp : Status(4):
+	MQTT client enabled.
+2018-Sep-11 21:48:24.054727 : CAdapterFactory.cpp : Status(4):
+	System will start without adapters.
+2018-Sep-11 21:48:24.055075 : CAdapterFactory.cpp : Status(4):
+	Starting the adapter i/o service.
+2018-Sep-11 21:48:24.105197 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5003
+2018-Sep-11 21:48:24.137939 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5006
+2018-Sep-11 21:48:24.583756 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 1) for 2367 ms
+2018-Sep-11 21:48:24.584127 : CBroker.cpp : Notice(5):
+	Phase: vvc for 2367ms offset 00:00:00
+2018-Sep-11 21:48:24.584338 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+ --------------------VVC ---------------------------------
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 2
+2018-Sep-11 21:48:26.632856 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5007
+2018-Sep-11 21:48:26.634750 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5008
+2018-Sep-11 21:48:26.893189 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5009
+2018-Sep-11 21:48:26.916951 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5010
+2018-Sep-11 21:48:26.951853 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:48:26.952275 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00
+2018-Sep-11 21:48:26.952372 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:26.952479 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:26.952596 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5001
+2018-Sep-11 21:48:26.952690 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5002
+2018-Sep-11 21:48:26.952786 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5003
+2018-Sep-11 21:48:26.952877 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5004
+2018-Sep-11 21:48:26.952979 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5005
+2018-Sep-11 21:48:26.953082 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5006
+2018-Sep-11 21:48:26.953171 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5007
+2018-Sep-11 21:48:26.953259 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5008
+2018-Sep-11 21:48:26.953346 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5009
+2018-Sep-11 21:48:26.953432 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5010
+2018-Sep-11 21:48:26.953523 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5011
+2018-Sep-11 21:48:26.953616 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5012
+2018-Sep-11 21:48:26.953709 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5013
+2018-Sep-11 21:48:26.953800 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5014
+2018-Sep-11 21:48:26.953891 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5015
+2018-Sep-11 21:48:26.953984 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5016
+2018-Sep-11 21:48:26.954074 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5017
+2018-Sep-11 21:48:26.954164 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:5018
+2018-Sep-11 21:48:26.954255 : GroupManagement.cpp : Notice(5):
+	All peers added 18
+2018-Sep-11 21:48:26.954341 : GroupManagement.cpp : Notice(5):
+	! arrogate:5001 added to peer set
+2018-Sep-11 21:48:26.954423 : GroupManagement.cpp : Notice(5):
+	! arrogate:5002 added to peer set
+2018-Sep-11 21:48:26.954503 : GroupManagement.cpp : Notice(5):
+	! arrogate:5003 added to peer set
+2018-Sep-11 21:48:26.954583 : GroupManagement.cpp : Notice(5):
+	! arrogate:5004 added to peer set
+2018-Sep-11 21:48:26.954662 : GroupManagement.cpp : Notice(5):
+	! arrogate:5005 added to peer set
+2018-Sep-11 21:48:26.954745 : GroupManagement.cpp : Notice(5):
+	! arrogate:5006 added to peer set
+2018-Sep-11 21:48:26.954826 : GroupManagement.cpp : Notice(5):
+	! arrogate:5007 added to peer set
+2018-Sep-11 21:48:26.954907 : GroupManagement.cpp : Notice(5):
+	! arrogate:5008 added to peer set
+2018-Sep-11 21:48:26.955312 : GroupManagement.cpp : Notice(5):
+	! arrogate:5009 added to peer set
+2018-Sep-11 21:48:26.955506 : GroupManagement.cpp : Notice(5):
+	! arrogate:5010 added to peer set
+2018-Sep-11 21:48:26.955688 : GroupManagement.cpp : Notice(5):
+	! arrogate:5011 added to peer set
+2018-Sep-11 21:48:26.955771 : GroupManagement.cpp : Notice(5):
+	! arrogate:5012 added to peer set
+2018-Sep-11 21:48:26.955853 : GroupManagement.cpp : Notice(5):
+	! arrogate:5013 added to peer set
+2018-Sep-11 21:48:26.955936 : GroupManagement.cpp : Notice(5):
+	! arrogate:5014 added to peer set
+2018-Sep-11 21:48:26.956016 : GroupManagement.cpp : Notice(5):
+	! arrogate:5015 added to peer set
+2018-Sep-11 21:48:26.956095 : GroupManagement.cpp : Notice(5):
+	! arrogate:5016 added to peer set
+2018-Sep-11 21:48:26.956173 : GroupManagement.cpp : Notice(5):
+	! arrogate:5017 added to peer set
+2018-Sep-11 21:48:26.956251 : GroupManagement.cpp : Notice(5):
+	! arrogate:5018 added to peer set
+2018-Sep-11 21:48:26.956337 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 441
+2018-Sep-11 21:48:26.956425 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289384 (arrogate:5001)
+2018-Sep-11 21:48:26.956504 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 454
+2018-Sep-11 21:48:26.956583 : GroupManagement.cpp : Notice(5):
+	+ State Change NORMAL : 457
+2018-Sep-11 21:48:26.957243 : CConnectionManager.cpp : Warn(3):
+	EP = [::1]:5001
+2018-Sep-11 21:48:26.958186 : GroupManagement.cpp : Notice(5):
+	Updated peer set (UPDATE)
+2018-Sep-11 21:48:27.061605 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 1084
+2018-Sep-11 21:48:27.062830 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289391 (arrogate:5010) 
+2018-Sep-11 21:48:27.064454 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 1127
+2018-Sep-11 21:48:27.273437 : GroupManagement.cpp : Notice(5):
+	+ State change: NORMAL: 944
+2018-Sep-11 21:48:27.273919 : GroupManagement.cpp : Notice(5):
+	Updated Peer Set.
+2018-Sep-11 21:48:27.486879 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.0.1:5002
+2018-Sep-11 21:48:27.487301 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 313 ms
+2018-Sep-11 21:48:27.487455 : CBroker.cpp : Notice(5):
+	Phase: sc for 313ms offset 00:00:00
+2018-Sep-11 21:48:27.487569 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:27.487685 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:27.488362 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.488512 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:27.488686 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:27.490606 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.491301 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:27.492135 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.492813 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:27.493615 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.494252 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:27.495022 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.495672 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:27.496442 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:27.497097 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:27.497721 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:48:27.497912 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:48:27.801170 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Sep-11 21:48:27.801513 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset 00:00:00
+2018-Sep-11 21:48:27.801646 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:27.801973 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5001
+2018-Sep-11 21:48:27.802230 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5010
+2018-Sep-11 21:48:31.900924 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:48:31.901121 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00
+2018-Sep-11 21:48:31.901280 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00
+2018-Sep-11 21:48:31.901370 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:31.901462 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:31.901596 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5001
+2018-Sep-11 21:48:31.901856 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5010
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 7
+2018-Sep-11 21:48:34.055991 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5004
+2018-Sep-11 21:48:34.056247 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5005
+2018-Sep-11 21:48:34.056941 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:48:34.057451 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:48:34.058316 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:48:34.058929 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:48:34.059704 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:48:34.060504 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:48:34.061373 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:48:34.062199 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:48:34.062946 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00
+2018-Sep-11 21:48:34.063676 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0039635
+2018-Sep-11 21:48:34.064387 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00406
+2018-Sep-11 21:48:34.065346 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.004409
+2018-Sep-11 21:48:34.066224 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.004799
+2018-Sep-11 21:48:34.066873 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.005013
+2018-Sep-11 21:48:34.067360 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.005298
+2018-Sep-11 21:48:34.067980 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.005519
+2018-Sep-11 21:48:34.068639 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0059745
+2018-Sep-11 21:48:34.069599 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.006866
+2018-Sep-11 21:48:36.005316 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 525 ms
+2018-Sep-11 21:48:36.005437 : CBroker.cpp : Notice(5):
+	Phase: gm for 525ms offset 00:00:00
+2018-Sep-11 21:48:36.005511 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:36.005587 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:36.005716 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01100011111000000000000000000000
+2018-Sep-11 21:48:36.005788 : GroupManagement.cpp : Status(4):
+	Group Float : 2.78858e-42
+2018-Sep-11 21:48:36.005943 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289391 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Unknown
+Node: arrogate:5004 State: Unknown
+Node: arrogate:5005 State: Unknown
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00
+Time left in phase: 00:00:00.524400
+
+2018-Sep-11 21:48:36.114038 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 1084
+2018-Sep-11 21:48:36.114216 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289392 (arrogate:5010) 
+2018-Sep-11 21:48:36.114687 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 1127
+2018-Sep-11 21:48:36.327130 : GroupManagement.cpp : Notice(5):
+	+ State change: NORMAL: 944
+2018-Sep-11 21:48:36.329976 : GroupManagement.cpp : Notice(5):
+	Updated Peer Set.
+2018-Sep-11 21:48:36.531354 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Sep-11 21:48:36.531589 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00
+2018-Sep-11 21:48:36.531973 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:36.532105 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:36.532761 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.532883 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:36.533087 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:36.535143 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.543523 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.544730 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.544848 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.547302 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.547388 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.547598 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.547683 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.548207 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.548291 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.548634 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:36.548717 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:36.852626 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:48:36.852968 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset 00:00:00
+2018-Sep-11 21:48:36.854869 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:36.856070 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5010
+2018-Sep-11 21:48:36.856888 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:48:36.857327 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:48:36.858414 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:48:36.859590 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:36.859781 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:48:40.954261 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4096 ms
+2018-Sep-11 21:48:40.954455 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4096ms offset 00:00:00
+2018-Sep-11 21:48:40.954574 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:40.954680 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:40.955040 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5010
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:48:44.072364 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to -00:00:00.000412
+2018-Sep-11 21:48:44.072901 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.0057265
+2018-Sep-11 21:48:44.074095 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.004706
+2018-Sep-11 21:48:44.075105 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00457825
+2018-Sep-11 21:48:44.076961 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.0050755
+2018-Sep-11 21:48:44.078508 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00598425
+2018-Sep-11 21:48:44.080257 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00593875
+2018-Sep-11 21:48:44.081700 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00604
+2018-Sep-11 21:48:44.082687 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.006437
+2018-Sep-11 21:48:44.083689 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00682825
+2018-Sep-11 21:48:45.050642 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 530 ms
+2018-Sep-11 21:48:45.050967 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset -00:00:00.000412
+2018-Sep-11 21:48:45.051133 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:45.051297 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:45.051587 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:48:45.051749 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:48:45.052092 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289392 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: -00:00:00.000412
+Time left in phase: 00:00:00.528603
+
+2018-Sep-11 21:48:45.055254 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 441
+2018-Sep-11 21:48:45.055438 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289385 (arrogate:5001)
+2018-Sep-11 21:48:45.055592 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 454
+2018-Sep-11 21:48:45.055733 : GroupManagement.cpp : Notice(5):
+	+ State Change NORMAL : 457
+2018-Sep-11 21:48:45.056500 : GroupManagement.cpp : Notice(5):
+	Updated peer set (UPDATE)
+2018-Sep-11 21:48:45.582865 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:48:45.582992 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset -00:00:00.000412
+2018-Sep-11 21:48:45.583106 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:45.583201 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:45.901465 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Sep-11 21:48:45.901657 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset -00:00:00.000412
+2018-Sep-11 21:48:45.901814 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:45.902224 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5001
+2018-Sep-11 21:48:45.902472 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:48:45.902657 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:48:45.902767 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	---------------------------------------------
+2018-Sep-11 21:48:45.902887 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:45.903016 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:48:50.001651 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4099 ms
+2018-Sep-11 21:48:50.001980 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4099ms offset -00:00:00.000412
+2018-Sep-11 21:48:50.002168 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:50.002395 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:50.002821 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5001
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:48:54.079114 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to -00:00:00.000624
+2018-Sep-11 21:48:54.079648 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.005014
+2018-Sep-11 21:48:54.080626 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00436733
+2018-Sep-11 21:48:54.081469 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00592967
+2018-Sep-11 21:48:54.082291 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.004939
+2018-Sep-11 21:48:54.083074 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00549883
+2018-Sep-11 21:48:54.083860 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0050845
+2018-Sep-11 21:48:54.085372 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00596667
+2018-Sep-11 21:48:54.086142 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00578483
+2018-Sep-11 21:48:54.086809 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.0061145
+2018-Sep-11 21:48:54.101641 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:48:54.101902 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset -00:00:00.000624
+2018-Sep-11 21:48:54.102069 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:48:54.102239 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:48:54.102510 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 11000000000000000000000000000000
+2018-Sep-11 21:48:54.102660 : GroupManagement.cpp : Status(4):
+	Group Float : 4.2039e-45
+2018-Sep-11 21:48:54.102997 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289385 Leader:arrogate:5001
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me, Coordinator)
+Node: arrogate:5002 State: Unknown
+Node: arrogate:5003 State: Unknown
+Node: arrogate:5004 State: Unknown
+Node: arrogate:5005 State: Unknown
+Node: arrogate:5006 State: Unknown
+Node: arrogate:5007 State: Unknown
+Node: arrogate:5008 State: Unknown
+Node: arrogate:5009 State: Unknown
+Node: arrogate:5010 State: Unknown
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: -00:00:00.000624
+Time left in phase: 00:00:00.527696
+
+2018-Sep-11 21:48:54.144383 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 1084
+2018-Sep-11 21:48:54.144546 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289394 (arrogate:5010) 
+2018-Sep-11 21:48:54.144968 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 1127
+2018-Sep-11 21:48:54.358550 : GroupManagement.cpp : Notice(5):
+	+ State change: NORMAL: 944
+2018-Sep-11 21:48:54.360403 : GroupManagement.cpp : Notice(5):
+	Updated Peer Set.
+2018-Sep-11 21:48:54.641159 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 309 ms
+2018-Sep-11 21:48:54.644057 : CBroker.cpp : Notice(5):
+	Phase: sc for 309ms offset -00:00:00.000624
+2018-Sep-11 21:48:54.646438 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:48:54.647054 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:48:54.647881 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.650667 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:54.651224 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:54.654104 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.659144 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.662033 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.665062 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.665818 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.666312 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.668408 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.668940 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.669528 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.670016 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.670744 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.672062 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.672729 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.673209 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:48:54.673671 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 27
+2018-Sep-11 21:48:54.674874 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5006 + 28
+2018-Sep-11 21:48:54.675308 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:48:54.675940 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.676854 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.677530 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.681799 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.682319 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:48:54.682779 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:48:54.683686 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.683857 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:48:54.683962 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:48:54.687928 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.688008 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.688204 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.688268 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.688510 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.688629 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.688852 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.688927 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.689259 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.689328 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.689778 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.689851 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.690139 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.690206 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.690497 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:48:54.690561 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:48:54.690627 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:48:54.690706 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:48:54.957676 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4093 ms
+2018-Sep-11 21:48:54.958293 : CBroker.cpp : Notice(5):
+	Phase: lb for 4093ms offset -00:00:00.000624
+2018-Sep-11 21:48:54.959152 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:48:54.959927 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:5010
+2018-Sep-11 21:48:54.960589 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:48:54.961676 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:48:54.962113 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:48:54.962323 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Sep-11 21:48:54.962489 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:48:58.237651 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5011 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.238066 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5012 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.238485 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5013 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.238799 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5014 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.239091 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5015 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.239510 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5016 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.239910 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5017 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:58.240424 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5018 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:48:59.052698 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4098 ms
+2018-Sep-11 21:48:59.053042 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4098ms offset -00:00:00.000624
+2018-Sep-11 21:48:59.053288 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:48:59.053533 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Sep-11 21:48:59.054030 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:5010
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 10
+2018-Sep-11 21:49:03.152017 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:49:03.152400 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset -00:00:00.000624
+2018-Sep-11 21:49:03.152668 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:03.152914 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:03.153310 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:03.153532 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:03.154030 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: -00:00:00.000624
+Time left in phase: 00:00:00.527073
+
+2018-Sep-11 21:49:03.683889 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 317 ms
+2018-Sep-11 21:49:03.684073 : CBroker.cpp : Notice(5):
+	Phase: sc for 317ms offset -00:00:00.000624
+2018-Sep-11 21:49:03.684193 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:03.684310 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:03.684544 : StateCollection.cpp : Status(4):
+	Device Item:  ..SST:gateway
+2018-Sep-11 21:49:03.684605 : StateCollection.cpp : Notice(5):
+	Receiving state collect request from lb ( arrogate:5001 )
+2018-Sep-11 21:49:03.684716 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.684778 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.684864 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.686199 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.686269 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.686504 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.686569 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.686746 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.686813 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.686941 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.687003 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.687121 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.687177 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.687229 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.687282 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5003 + 29
+2018-Sep-11 21:49:03.687336 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.687457 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.687520 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.687656 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.687719 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.687797 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.687856 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.687912 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.687968 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5006 + 29
+2018-Sep-11 21:49:03.688021 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.688132 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.690012 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.690588 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.690951 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5001 + 29
+2018-Sep-11 21:49:03.691491 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.691871 : StateCollection.cpp : Status(4):
+	Incoming marker is from leader, follow the leader
+2018-Sep-11 21:49:03.692443 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.699473 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.699877 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.700495 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.701012 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.701505 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.702429 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.703251 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.703651 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.704655 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.705005 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.705581 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.712703 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.713055 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.713514 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5002 + 29
+2018-Sep-11 21:49:03.713925 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.714551 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.714906 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.716345 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.716701 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.717200 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.726814 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.727247 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.727591 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5002 + 29
+2018-Sep-11 21:49:03.727932 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.728483 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.728849 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.729224 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.729587 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5001 + 29
+2018-Sep-11 21:49:03.730062 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.731027 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.731609 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.731947 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.732311 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.733243 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.734668 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.735264 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.737722 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.741704 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.742059 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5005 + 29
+2018-Sep-11 21:49:03.742399 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.742736 : StateCollection.cpp : Status(4):
+	Incoming marker is from leader, follow the leader
+2018-Sep-11 21:49:03.743096 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.747787 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.748146 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.749051 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.749399 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.749736 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.750113 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.750566 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.751142 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.751488 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.751899 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.752234 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.752585 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.753159 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.753508 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.754035 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.754384 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.754878 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.755226 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.756659 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.757019 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.757451 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.758012 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.758348 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.758856 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.759206 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.759854 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.760178 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5004 + 29
+2018-Sep-11 21:49:03.760525 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.761126 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.761472 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.762647 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.762998 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.763691 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.764044 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.764381 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.764816 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5005 + 29
+2018-Sep-11 21:49:03.765154 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.766350 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.766693 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.767592 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.767934 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.768266 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.768691 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.769609 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.769973 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.770358 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.773328 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.773693 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:03.774033 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:03.774365 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5005 + 29
+2018-Sep-11 21:49:03.774704 : StateCollection.cpp : Status(4):
+	Incoming marker is from another peer, or index is smaller, ignore
+2018-Sep-11 21:49:03.776535 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.777209 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.778189 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.778512 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.779922 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.780292 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.780826 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.781291 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.782963 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.783444 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.784872 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.785288 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.788151 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.789324 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.790710 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.792725 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.792809 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.792911 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.793384 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.793445 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.793535 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.796551 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.796636 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.797687 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.797772 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.797993 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.798233 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.799864 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.799936 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.805173 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.805249 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.810970 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.811045 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.812577 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.812652 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.817106 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.817165 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.817227 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:03.817300 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:03.817689 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.817756 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:03.817849 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:03.820640 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.820756 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.823659 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.823755 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.823992 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.824059 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.824346 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.824413 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:03.824634 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:03.824703 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:04.001693 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Sep-11 21:49:04.001794 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset -00:00:00.000624
+2018-Sep-11 21:49:04.001861 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:04.002075 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:04.002163 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:04.002253 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:04.002313 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:04.002389 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:04.079782 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5011 has gone stale 
+2018-Sep-11 21:49:04.080305 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:49:04.080623 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5012 has gone stale 
+2018-Sep-11 21:49:04.080952 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:49:04.081400 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5013 has gone stale 
+2018-Sep-11 21:49:04.081782 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:49:04.082398 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5014 has gone stale 
+2018-Sep-11 21:49:04.082808 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:49:04.083254 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5015 has gone stale 
+2018-Sep-11 21:49:04.083574 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:49:04.084014 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5016 has gone stale 
+2018-Sep-11 21:49:04.084334 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:49:04.084819 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5017 has gone stale 
+2018-Sep-11 21:49:04.085090 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:49:04.085289 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5018 has gone stale 
+2018-Sep-11 21:49:04.085406 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:49:04.085660 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000376
+2018-Sep-11 21:49:04.086869 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0047035
+2018-Sep-11 21:49:04.087420 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00419837
+2018-Sep-11 21:49:04.088174 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00470363
+2018-Sep-11 21:49:04.088910 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.00488725
+2018-Sep-11 21:49:04.089561 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00560237
+2018-Sep-11 21:49:04.090378 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00534587
+2018-Sep-11 21:49:04.091104 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0058055
+2018-Sep-11 21:49:04.091826 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00572875
+2018-Sep-11 21:49:04.092573 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00605162
+2018-Sep-11 21:49:08.102062 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4098 ms
+2018-Sep-11 21:49:08.102260 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4098ms offset 00:00:00.000376
+2018-Sep-11 21:49:08.102382 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:08.102505 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:49:12.200800 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 530 ms
+2018-Sep-11 21:49:12.201092 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00.000376
+2018-Sep-11 21:49:12.201259 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:12.201414 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:12.201869 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:12.201981 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:12.202258 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000376
+Time left in phase: 00:00:00.528585
+
+2018-Sep-11 21:49:12.732850 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:49:12.732976 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset 00:00:00.000376
+2018-Sep-11 21:49:12.733078 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:12.733145 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:12.733321 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.733444 : StateCollection.cpp : Status(4):
+	-----Receive a new marker different from current one.-------
+2018-Sep-11 21:49:12.733521 : StateCollection.cpp : Status(4):
+	Current version is arrogate:5010 + 28
+2018-Sep-11 21:49:12.733602 : StateCollection.cpp : Status(4):
+	Incoming version is arrogate:5010 + 29
+2018-Sep-11 21:49:12.733692 : StateCollection.cpp : Status(4):
+	Incoming marker is newer from same node, follow the newer
+2018-Sep-11 21:49:12.733811 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:12.735322 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.735389 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.735605 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.735663 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.735762 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.735823 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.735933 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.735977 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736067 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.736108 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736188 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.736229 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736365 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.736416 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736545 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:12.736589 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:12.736626 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:12.736668 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:13.053316 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4097 ms
+2018-Sep-11 21:49:13.053548 : CBroker.cpp : Notice(5):
+	Phase: lb for 4097ms offset 00:00:00.000376
+2018-Sep-11 21:49:13.053721 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:13.054207 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:13.054482 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:13.054702 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:13.054887 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:13.055077 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:14.094218 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000341
+2018-Sep-11 21:49:14.095237 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.0045405
+2018-Sep-11 21:49:14.096020 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.004729
+2018-Sep-11 21:49:14.097048 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.004148
+2018-Sep-11 21:49:14.097936 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.0052805
+2018-Sep-11 21:49:14.098847 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0054967
+2018-Sep-11 21:49:14.099713 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.0047769
+2018-Sep-11 21:49:14.100584 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.0052647
+2018-Sep-11 21:49:14.101515 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.005626
+2018-Sep-11 21:49:14.102309 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.0059268
+2018-Sep-11 21:49:17.150930 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:17.151180 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.000341
+2018-Sep-11 21:49:17.151462 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.000341
+2018-Sep-11 21:49:17.151622 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:17.151782 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:49:21.252792 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 528 ms
+2018-Sep-11 21:49:21.253011 : CBroker.cpp : Notice(5):
+	Phase: gm for 528ms offset 00:00:00.000341
+2018-Sep-11 21:49:21.253164 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:21.253334 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:21.253589 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:21.253693 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:21.253900 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000341
+Time left in phase: 00:00:00.526916
+
+2018-Sep-11 21:49:21.786673 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 314 ms
+2018-Sep-11 21:49:21.787278 : CBroker.cpp : Notice(5):
+	Phase: sc for 314ms offset 00:00:00.000341
+2018-Sep-11 21:49:21.787810 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:21.788354 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:21.789644 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.790213 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:21.790802 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:21.794994 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.795109 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.795448 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.795529 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.795783 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.795903 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.796158 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.796299 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.796471 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.796549 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.796731 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.796810 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.796977 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.797054 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.797205 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:21.797282 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:21.797361 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:21.797467 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:22.109041 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4091 ms
+2018-Sep-11 21:49:22.109292 : CBroker.cpp : Notice(5):
+	Phase: lb for 4091ms offset 00:00:00.000341
+2018-Sep-11 21:49:22.109489 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:22.110196 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:22.110902 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:22.111220 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:22.111407 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:22.111612 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:24.102588 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000350
+2018-Sep-11 21:49:24.103474 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.004638
+2018-Sep-11 21:49:24.104611 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00460608
+2018-Sep-11 21:49:24.105582 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00430067
+2018-Sep-11 21:49:24.106787 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00482508
+2018-Sep-11 21:49:24.107899 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00529342
+2018-Sep-11 21:49:24.108965 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.0055285
+2018-Sep-11 21:49:24.110089 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00539017
+2018-Sep-11 21:49:24.111141 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00574075
+2018-Sep-11 21:49:24.112196 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00604625
+2018-Sep-11 21:49:26.201050 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4099 ms
+2018-Sep-11 21:49:26.201235 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4099ms offset 00:00:00.000350
+2018-Sep-11 21:49:26.201346 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:26.201479 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 71th iteration 
+ Expected power loss (kW) = 92.2218
+ Expected power loss reduction (kW) = 7.17977
+ Actual Step_Size:    0.8803   0.8803   0.8803
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:49:28.200713 : VoltVarCtrl.cpp : Notice(5):
+	Got Gradients from arrogate:5002
+2018-Sep-11 21:49:28.200777 : VoltVarCtrl.cpp : Notice(5):
+	size of vector 1014
+2018-Sep-11 21:49:28.200828 : VoltVarCtrl.cpp : Notice(5):
+	the 1st element = 0
+Loaded Pload from: arrogate:5002
+2018-Sep-11 21:49:30.300680 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 530 ms
+2018-Sep-11 21:49:30.300860 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00.000350
+2018-Sep-11 21:49:30.300977 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:30.301113 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:30.301327 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:30.301458 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:30.302156 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000350
+Time left in phase: 00:00:00.528581
+
+2018-Sep-11 21:49:30.832714 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 318 ms
+2018-Sep-11 21:49:30.832849 : CBroker.cpp : Notice(5):
+	Phase: sc for 318ms offset 00:00:00.000350
+2018-Sep-11 21:49:30.832949 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:30.833035 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:30.833186 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.833304 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:30.833447 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:30.836445 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.837420 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.837811 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.838154 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.838873 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.839436 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.839733 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.839812 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.840096 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.840210 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.840455 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.840588 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.840861 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.840967 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.841178 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:30.841286 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:30.841421 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:30.841552 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:31.154420 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4096 ms
+2018-Sep-11 21:49:31.154658 : CBroker.cpp : Notice(5):
+	Phase: lb for 4096ms offset 00:00:00.000350
+2018-Sep-11 21:49:31.154802 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:31.155255 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:31.155409 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:31.155531 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:31.155623 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:31.155716 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:34.108548 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000039
+2018-Sep-11 21:49:34.108732 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.00439764
+2018-Sep-11 21:49:34.109437 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00412986
+2018-Sep-11 21:49:34.110128 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00460407
+2018-Sep-11 21:49:34.110780 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00502771
+2018-Sep-11 21:49:34.111426 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00519414
+2018-Sep-11 21:49:34.112072 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00462893
+2018-Sep-11 21:49:34.112782 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00514679
+2018-Sep-11 21:49:34.113479 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00547664
+2018-Sep-11 21:49:34.114125 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.00576386
+2018-Sep-11 21:49:35.250779 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Sep-11 21:49:35.250944 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00.000039
+2018-Sep-11 21:49:35.251141 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00.000039
+2018-Sep-11 21:49:35.251244 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:35.251350 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+size of Pload_vec: 1014
+size of Pload_mat: 1014
+Dl size: 167
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 1th iteration 
+ Expected power loss (kW) = 11.0919
+ Expected power loss reduction (kW) = 0.43443
+ Actual Step_Size:    0.7557   0.7557   0.7557
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5003 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5004 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5005 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5006 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5007 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5008 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5009 Gradient Data!
+S2: 
+  -68.0872
+  -78.8419
+    5.9363
+   18.8173
+  -57.8835
+    6.6897
+  -36.4566
+   11.4718
+   -1.3872
+  -36.2778
+   11.5068
+   -1.4122
+  -62.8812
+   17.9231
+    7.7777
+  -53.2074
+   19.1206
+    6.1330
+  -31.4615
+    0.4689
+   10.6121
+  -20.3752
+    0.0200
+    1.0000
+    1.0000
+    1.0000
+    1.1000
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0000
+    1.0500
+    1.0000
+    1.0500
+
+Size of Gradient (S2) sent to slaves is: 35
+Sending to: arrogate:5010 Gradient Data!
+Time elapsed is: 8
+2018-Sep-11 21:49:38.264675 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5011 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.265446 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5012 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.265968 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5013 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.266415 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5014 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.266769 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5015 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.267063 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5016 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.267419 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5017 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:38.267820 : CProtocolSR.cpp : Warn(3):
+	Connection to arrogate:5018 has lost 0 messages. Attempting to reconnect.
+2018-Sep-11 21:49:39.351585 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 529 ms
+2018-Sep-11 21:49:39.351762 : CBroker.cpp : Notice(5):
+	Phase: gm for 529ms offset 00:00:00.000039
+2018-Sep-11 21:49:39.351868 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:39.351983 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:39.352142 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:39.352224 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:39.352457 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000039
+Time left in phase: 00:00:00.528177
+
+2018-Sep-11 21:49:39.881910 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Sep-11 21:49:39.882140 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00.000039
+2018-Sep-11 21:49:39.882233 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:39.882313 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:39.882508 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.882603 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:39.882735 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:39.884210 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.884285 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.884516 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.884588 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.884728 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.884793 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.884931 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.884998 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.885145 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.885210 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.885350 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.885416 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.885549 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.885605 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.887331 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:39.887391 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:39.887457 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:39.887530 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:40.203281 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4097 ms
+2018-Sep-11 21:49:40.203484 : CBroker.cpp : Notice(5):
+	Phase: lb for 4097ms offset 00:00:00.000039
+2018-Sep-11 21:49:40.203625 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:40.204084 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:40.204275 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:40.204444 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:40.204593 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:40.204737 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:44.112035 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5011 has gone stale 
+2018-Sep-11 21:49:44.112929 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5011
+2018-Sep-11 21:49:44.113553 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5012 has gone stale 
+2018-Sep-11 21:49:44.113971 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5012
+2018-Sep-11 21:49:44.114548 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5013 has gone stale 
+2018-Sep-11 21:49:44.114958 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5013
+2018-Sep-11 21:49:44.115516 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5014 has gone stale 
+2018-Sep-11 21:49:44.115929 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5014
+2018-Sep-11 21:49:44.116487 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5015 has gone stale 
+2018-Sep-11 21:49:44.116885 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5015
+2018-Sep-11 21:49:44.117455 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5016 has gone stale 
+2018-Sep-11 21:49:44.117855 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5016
+2018-Sep-11 21:49:44.118402 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5017 has gone stale 
+2018-Sep-11 21:49:44.118796 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5017
+2018-Sep-11 21:49:44.119339 : CConnectionManager.cpp : Warn(3):
+	Connection to arrogate:5018 has gone stale 
+2018-Sep-11 21:49:44.119735 : CConnectionManager.cpp : Warn(3):
+	EP = 127.0.1.1:5018
+2018-Sep-11 21:49:44.120587 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00.000400
+2018-Sep-11 21:49:44.121594 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.00458837
+2018-Sep-11 21:49:44.122519 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00488238
+2018-Sep-11 21:49:44.123513 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00445069
+2018-Sep-11 21:49:44.124449 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00489863
+2018-Sep-11 21:49:44.125417 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00530325
+2018-Sep-11 21:49:44.126254 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00547425
+2018-Sep-11 21:49:44.127273 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00547125
+2018-Sep-11 21:49:44.128175 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00579194
+2018-Sep-11 21:49:44.128975 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.006077
+2018-Sep-11 21:49:44.301231 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4099 ms
+2018-Sep-11 21:49:44.301336 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4099ms offset 00:00:00.000400
+2018-Sep-11 21:49:44.301409 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:44.301512 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 1th iteration 
+ Expected power loss (kW) = 11.0919
+ Expected power loss reduction (kW) = 0.43443
+ Actual Step_Size:    0.7557   0.7557   0.7557
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:49:48.409204 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 521 ms
+2018-Sep-11 21:49:48.409710 : CBroker.cpp : Notice(5):
+	Phase: gm for 521ms offset 00:00:00.000400
+2018-Sep-11 21:49:48.411043 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:48.411859 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:48.412112 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:48.412251 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:48.412544 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: 00:00:00.000400
+Time left in phase: 00:00:00.517690
+
+2018-Sep-11 21:49:48.934108 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 316 ms
+2018-Sep-11 21:49:48.934343 : CBroker.cpp : Notice(5):
+	Phase: sc for 316ms offset 00:00:00.000400
+2018-Sep-11 21:49:48.934470 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:48.934580 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:48.934759 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.934868 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:48.935018 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:48.938555 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.939784 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.940668 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.941343 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.942387 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.943159 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.944604 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.945356 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.946415 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.947147 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.948035 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.948821 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.949939 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.950496 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.951488 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:48.952551 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:48.952915 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:48.953039 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:49.254508 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4096 ms
+2018-Sep-11 21:49:49.254995 : CBroker.cpp : Notice(5):
+	Phase: lb for 4096ms offset 00:00:00.000400
+2018-Sep-11 21:49:49.255385 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:49.256336 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:49.256770 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:49.257004 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:49.257180 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:49.257363 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Sep-11 21:49:53.351943 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 3) for 4099 ms
+2018-Sep-11 21:49:53.353607 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4099ms offset 00:00:00.000400
+2018-Sep-11 21:49:53.354043 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Sep-11 21:49:53.354450 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+Dl dimension:167*16
+Z dimensions:60*3
+Couldn't load Pload_vector
+Sending Data to main file.. 
+Voltage module trig = 0
+Voltage Regulation (4 VRs) Skipped 
+9 6 8
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+Sending Data to main file.. 
+ Best step-size obtained! Searching ends at the 1th iteration 
+ Expected power loss (kW) = 11.0919
+ Expected power loss reduction (kW) = 0.43443
+ Actual Step_Size:    0.7557   0.7557   0.7557
+
+trigger1 == 1
+Qcmd rows: 167
+Sending Data to main file.. 
+Time elapsed is: 9
+2018-Sep-11 21:49:54.277975 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to -00:00:00.000293
+2018-Sep-11 21:49:54.277500 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5003): 0.00419139
+2018-Sep-11 21:49:54.277800 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5005): 0.00447472
+2018-Sep-11 21:49:54.278113 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5006): 0.00484522
+2018-Sep-11 21:49:54.278472 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5004): 0.00411872
+2018-Sep-11 21:49:54.278828 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5002): 0.00453194
+2018-Sep-11 21:49:54.279181 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5008): 0.00503917
+2018-Sep-11 21:49:54.279537 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5010): 0.0055835
+2018-Sep-11 21:49:54.279903 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5009): 0.00535772
+2018-Sep-11 21:49:54.280181 : CClockSynchronizer.cpp : Notice(5):
+	Computed lag (arrogate:5007): 0.00510506
+2018-Sep-11 21:49:57.452996 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 528 ms
+2018-Sep-11 21:49:57.453133 : CBroker.cpp : Notice(5):
+	Phase: gm for 528ms offset -00:00:00.000293
+2018-Sep-11 21:49:57.454088 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Sep-11 21:49:57.454324 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Sep-11 21:49:57.454478 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 01111111111000000000000000000000
+2018-Sep-11 21:49:57.454544 : GroupManagement.cpp : Status(4):
+	Group Float : 2.86706e-42
+2018-Sep-11 21:49:57.454724 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:5001, Group: 1804289394 Leader:arrogate:5010
+SYSTEM NODES
+Node: arrogate:5001 State: Up (Me)
+Node: arrogate:5002 State: Up (In Group)
+Node: arrogate:5003 State: Up (In Group)
+Node: arrogate:5004 State: Up (In Group)
+Node: arrogate:5005 State: Up (In Group)
+Node: arrogate:5006 State: Up (In Group)
+Node: arrogate:5007 State: Up (In Group)
+Node: arrogate:5008 State: Up (In Group)
+Node: arrogate:5009 State: Up (In Group)
+Node: arrogate:5010 State: Up (Coordinator)
+Node: arrogate:5011 State: Unknown
+Node: arrogate:5012 State: Unknown
+Node: arrogate:5013 State: Unknown
+Node: arrogate:5014 State: Unknown
+Node: arrogate:5015 State: Unknown
+Node: arrogate:5016 State: Unknown
+Node: arrogate:5017 State: Unknown
+Node: arrogate:5018 State: Unknown
+FID state: 0
+Current Skew: -00:00:00.000293
+Time left in phase: 00:00:00.526301
+
+2018-Sep-11 21:49:57.983372 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 317 ms
+2018-Sep-11 21:49:57.983977 : CBroker.cpp : Notice(5):
+	Phase: sc for 317ms offset -00:00:00.000293
+2018-Sep-11 21:49:57.984061 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Sep-11 21:49:57.984136 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Sep-11 21:49:57.984254 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.984320 : StateCollection.cpp : Status(4):
+	------------------------first maker with default state ----------------
+2018-Sep-11 21:49:57.984433 : StateCollection.cpp : Status(4):
+	Device:   Sst  Signal:  gateway Value:  0
+2018-Sep-11 21:49:57.985970 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.986049 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.986214 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.986292 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.986453 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.986531 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.986691 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.988333 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.990218 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.991222 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.991860 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.992309 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.992908 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.993319 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.993896 : StateCollection.cpp : Notice(5):
+	Needed device: Sst:gateway
+2018-Sep-11 21:49:57.994389 : StateCollection.cpp : Status(4):
+	------------------------Peer receives marker before--------------------
+2018-Sep-11 21:49:57.994550 : StateCollection.cpp : Status(4):
+	(Peer)The number of collected states is 1
+2018-Sep-11 21:49:57.994636 : StateCollection.cpp : Status(4):
+	item:     Sst   gateway    0
+2018-Sep-11 21:49:58.302920 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4098 ms
+2018-Sep-11 21:49:58.303091 : CBroker.cpp : Notice(5):
+	Phase: lb for 4098ms offset -00:00:00.000293
+2018-Sep-11 21:49:58.303171 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Sep-11 21:49:58.303427 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Sep-11 21:49:58.303540 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Sep-11 21:49:58.303645 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:5001
+	(NORMAL) arrogate:5002
+	(NORMAL) arrogate:5003
+	(NORMAL) arrogate:5004
+	(NORMAL) arrogate:5005
+	(NORMAL) arrogate:5006
+	(NORMAL) arrogate:5007
+	(NORMAL) arrogate:5008
+	(NORMAL) arrogate:5009
+	(NORMAL) arrogate:5010
+	---------------------------------------------
+2018-Sep-11 21:49:58.303745 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: not in SUPPLY
+2018-Sep-11 21:49:58.303825 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device

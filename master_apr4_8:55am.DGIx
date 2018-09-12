@@ -1,0 +1,132 @@
+2018-Apr-04 13:12:50.648157 : PosixMain.cpp : Status(4):
+	set adapter config
+ARMADILLO LINK CONFIRMATION
+   1.1457   0.9011   1.6260   1.2298
+   0.8484   1.0444   1.6753   1.2946
+   1.5009   1.2935   2.2019   2.0497
+   0.6165   0.7583   1.4153   0.9662
+
+2018-Apr-04 13:12:50.648584 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Apr-04 13:12:50.648941 : CAdapterFactory.cpp : Status(4):
+	Plug and play devices disabled.
+2018-Apr-04 13:12:50.649070 : CAdapterFactory.cpp : Status(4):
+	MQTT client enabled.
+2018-Apr-04 13:12:50.649189 : CAdapterFactory.cpp : Status(4):
+	Using devices in config/adapter.xml
+2018-Apr-04 13:12:50.649817 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+SST1
+Types: Sst
+States: gateway
+Commands: gateway
+2018-Apr-04 13:12:50.649993 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+DRER1
+Types: Drer
+States: generation
+Commands:
+2018-Apr-04 13:12:50.650049 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+LOAD1
+Types: Load
+States: drain
+Commands:
+2018-Apr-04 13:12:50.650098 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID1
+Types: Fid
+States: state
+Commands:
+2018-Apr-04 13:12:50.650134 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID2
+Types: Fid
+States: state
+Commands:
+2018-Apr-04 13:12:50.650167 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FREQ
+Types: Omega
+States: frequency
+Commands:
+2018-Apr-04 13:12:50.650636 : CRtdsAdapter.cpp : Status(4):
+	Opened a TCP socket connection to host localhost:5004.
+2018-Apr-04 13:12:50.650706 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+SST2
+Types: Sst
+States: gateway
+Commands: gateway
+2018-Apr-04 13:12:50.650745 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+DRER2
+Types: Drer
+States: generation
+Commands:
+2018-Apr-04 13:12:50.650777 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+LOAD2
+Types: Load
+States: drain
+Commands:
+2018-Apr-04 13:12:50.650809 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID3
+Types: Fid
+States: state
+Commands:
+2018-Apr-04 13:12:50.650841 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID4
+Types: Fid
+States: state
+Commands:
+2018-Apr-04 13:12:50.650873 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FREQ1
+Types: Omega
+States: frequency
+Commands:
+2018-Apr-04 13:12:50.651111 : COpenDssAdapter.cpp : Status(4):
+	Opened a TCP socket connection to host localhost:5001.
+2018-Apr-04 13:12:50.651328 : CAdapterFactory.cpp : Status(4):
+	Starting the adapter i/o service.
+2018-Apr-04 13:12:50.701169 : COpenDssAdapter.cpp : Status(4):
+	opendss data: 
+632a 80.0
+632b 80.0
+632c 80.0
+670a 70.0
+670b 70.0
+670c 70.0
+671a 60.0
+671b 60.0
+671c 60.0
+680a 50.0
+680b 50.0
+680c 50.0
+633a 90.0
+633b 90.0
+633c 90.0
+634a 50.0
+634b 50.0
+634c 50.0
+635a 70.0
+635b 70.0
+635c 70.0
+2018-Apr-04 13:12:50.701232 : COpenDssAdapter.cpp : Status(4):
+	command sent to openDss device
+2018-Apr-04 13:12:51.178753 : CBroker.cpp : Notice(5):
+	Aligned phase to 3 (was 1) for 3222 ms
+2018-Apr-04 13:12:51.178820 : CBroker.cpp : Notice(5):
+	Phase: vvc for 3222ms offset 00:00:00
+2018-Apr-04 13:12:51.178851 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+ --------------------VVC ---------------------------------
+Dl dimension:9*13
+0x7fff77c1d2c8
+with length 0
+0
+2018-Apr-04 13:12:51.179115 : PosixMain.cpp : Fatal(0):
+	Exception caught in Broker: basic_string::substr: __pos (which is 5) > this->size() (which is 0)

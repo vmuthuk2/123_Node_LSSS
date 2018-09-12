@@ -1,0 +1,1038 @@
+2018-Apr-10 17:08:49.407080 : PosixMain.cpp : Status(4):
+	set adapter config
+ARMADILLO LINK CONFIRMATION
+   1.1457   0.9011   1.6260   1.2298
+   0.8484   1.0444   1.6753   1.2946
+   1.5009   1.2935   2.2019   2.0497
+   0.6165   0.7583   1.4153   0.9662
+
+2018-Apr-10 17:08:49.407364 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Apr-10 17:08:49.407619 : CAdapterFactory.cpp : Status(4):
+	Plug and play devices disabled.
+2018-Apr-10 17:08:49.407646 : CAdapterFactory.cpp : Status(4):
+	MQTT client enabled.
+2018-Apr-10 17:08:49.407665 : CAdapterFactory.cpp : Status(4):
+	Using devices in config/adapter.xml
+2018-Apr-10 17:08:49.407828 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+SST1
+Types: Sst
+States: gateway
+Commands: gateway
+2018-Apr-10 17:08:49.407869 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+DRER1
+Types: Drer
+States: generation
+Commands:
+2018-Apr-10 17:08:49.407903 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+LOAD1
+Types: Load
+States: drain
+Commands:
+2018-Apr-10 17:08:49.407935 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID1
+Types: Fid
+States: state
+Commands:
+2018-Apr-10 17:08:49.407970 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID2
+Types: Fid
+States: state
+Commands:
+2018-Apr-10 17:08:49.408002 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FREQ
+Types: Omega
+States: frequency
+Commands:
+2018-Apr-10 17:08:49.408518 : CRtdsAdapter.cpp : Status(4):
+	Opened a TCP socket connection to host localhost:5004.
+2018-Apr-10 17:08:49.408586 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+SST2
+Types: Sst
+States: gateway
+Commands: gateway
+2018-Apr-10 17:08:49.408626 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+DRER2
+Types: Drer
+States: generation
+Commands:
+2018-Apr-10 17:08:49.408658 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+LOAD2
+Types: Load
+States: drain
+Commands:
+2018-Apr-10 17:08:49.408691 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID3
+Types: Fid
+States: state
+Commands:
+2018-Apr-10 17:08:49.408723 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FID4
+Types: Fid
+States: state
+Commands:
+2018-Apr-10 17:08:49.408755 : CDevice.cpp : Status(4):
+	CREATED NEW DEVICE:
+FREQ1
+Types: Omega
+States: frequency
+Commands:
+2018-Apr-10 17:08:49.408994 : COpenDssAdapter.cpp : Status(4):
+	Opened a TCP socket connection to host localhost:5001.
+2018-Apr-10 17:08:49.409234 : CAdapterFactory.cpp : Status(4):
+	Starting the adapter i/o service.
+2018-Apr-10 17:08:49.459192 : COpenDssAdapter.cpp : Status(4):
+	opendss data: 
+632a 80.0
+632b 80.0
+632c 80.0
+670a 70.0
+670b 70.0
+670c 70.0
+671a 60.0
+671b 60.0
+671c 60.0
+680a 50.0
+680b 50.0
+680c 50.0
+633a 90.0
+633b 90.0
+633c 90.0
+634a 50.0
+634b 50.0
+634c 50.0
+635a 70.0
+635b 70.0
+635c 70.0
+2018-Apr-10 17:08:49.459794 : COpenDssAdapter.cpp : Status(4):
+	command sent to openDss device
+2018-Apr-10 17:08:49.937437 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 1) for 3613 ms
+2018-Apr-10 17:08:49.937504 : CBroker.cpp : Notice(5):
+	Phase: lb for 3613ms offset 00:00:00
+2018-Apr-10 17:08:49.937534 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Apr-10 17:08:53.550632 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Apr-10 17:08:53.550723 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00
+2018-Apr-10 17:08:53.550775 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00
+2018-Apr-10 17:08:53.550807 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Apr-10 17:08:53.550840 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+ --------------------VVC ---------------------------------
+Dl dimension:9*13
+Opendss Data: 
+632a 80.0
+632b 80.0
+632c 80.0
+670a 70.0
+670b 70.0
+670c 70.0
+671a 60.0
+671b 60.0
+671c 60.0
+680a 50.0
+680b 50.0
+680c 50.0
+633a 90.0
+633b 90.0
+633c 90.0
+634a 50.0
+634b 50.0
+634c 50.0
+635a 70.0
+635b 70.0
+635c 70.0
+Phase A B C NoBranches:   8.0000   8.0000   8.0000
+
+No. of Nodes:9
+Error! No Load Phase A!
+Error! No Load Phase B!
+Error! No Load Phase C!
+Error! No Q load Phase A!
+Error! No Q Load Phase B!
+Error! No Q Load Phase C!
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6733
+Vmax (p.u.) = 1.015
+Vmin (p.u.) = 0.995956
+max gradient=0.0014058	min grad=0.00081408(p.u.)
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6697
+
+ 
+ step-size at the 1th iteration = 0.368514
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6693
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6693
+
+ 
+ step-size at the 2th iteration = 0.405366
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.669
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.669
+
+ 
+ step-size at the 3th iteration = 0.445902
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6686
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6686
+
+ 
+ step-size at the 4th iteration = 0.490493
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6681
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6681
+
+ 
+ step-size at the 5th iteration = 0.539542
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6676
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6676
+
+ 
+ step-size at the 6th iteration = 0.593496
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6671
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6671
+
+ 
+ step-size at the 7th iteration = 0.652846
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6665
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6665
+
+ 
+ step-size at the 8th iteration = 0.71813
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6659
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6659
+
+ 
+ step-size at the 9th iteration = 0.789943
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6652
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6652
+
+ 
+ step-size at the 10th iteration = 0.868937
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6645
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6645
+
+ 
+ step-size at the 11th iteration = 0.955831
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6637
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6637
+
+ 
+ step-size at the 12th iteration = 1.05141
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6629
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6629
+
+ 
+ step-size at the 13th iteration = 1.15656
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.662
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.662
+
+ 
+ step-size at the 14th iteration = 1.27221
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6611
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6611
+
+ 
+ step-size at the 15th iteration = 1.39943
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6601
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6601
+
+ 
+ step-size at the 16th iteration = 1.53938
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.659
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.659
+
+ 
+ step-size at the 17th iteration = 1.69331
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6579
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6579
+
+ 
+ step-size at the 18th iteration = 1.86264
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6567
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6567
+
+ 
+ step-size at the 19th iteration = 2.04891
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6555
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6555
+
+ 
+ step-size at the 20th iteration = 2.2538
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6542
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6542
+
+ 
+ step-size at the 21th iteration = 2.47918
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.653
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.653
+
+ 
+ step-size at the 22th iteration = 2.7271
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6518
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6518
+
+ 
+ step-size at the 23th iteration = 2.99981
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6506
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6506
+
+ 
+ step-size at the 24th iteration = 3.29979
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6494
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6494
+
+ 
+ step-size at the 25th iteration = 3.62977
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6484
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6484
+
+ 
+ step-size at the 26th iteration = 3.99274
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6476
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6476
+
+ 
+ step-size at the 27th iteration = 4.39202
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6471
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6471
+
+ 
+ step-size at the 28th iteration = 4.83122
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.647
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.647
+
+ 
+ step-size at the 29th iteration = 5.31434
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6473
+ Best step-size obtained! Searching ends at the 29th iteration 
+ Expected power loss (kW) = 11.647
+ Expected power loss reduction (kW) = 0.0263049
+2018-Apr-10 17:08:57.650925 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 530 ms
+2018-Apr-10 17:08:57.650999 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Apr-10 17:08:57.651035 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Apr-10 17:08:57.651071 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Apr-10 17:08:57.651110 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:51870
+2018-Apr-10 17:08:57.651144 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:51871
+2018-Apr-10 17:08:57.651181 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:51872
+2018-Apr-10 17:08:57.651209 : GroupManagement.cpp : Notice(5):
+	Registering peer arrogate:51873
+2018-Apr-10 17:08:57.651241 : GroupManagement.cpp : Notice(5):
+	All peers added 4
+2018-Apr-10 17:08:57.651267 : GroupManagement.cpp : Notice(5):
+	! arrogate:51870 added to peer set
+2018-Apr-10 17:08:57.651288 : GroupManagement.cpp : Notice(5):
+	! arrogate:51871 added to peer set
+2018-Apr-10 17:08:57.651307 : GroupManagement.cpp : Notice(5):
+	! arrogate:51872 added to peer set
+2018-Apr-10 17:08:57.651327 : GroupManagement.cpp : Notice(5):
+	! arrogate:51873 added to peer set
+2018-Apr-10 17:08:57.651352 : GroupManagement.cpp : Notice(5):
+	+ State Change ELECTION : 441
+2018-Apr-10 17:08:57.651377 : GroupManagement.cpp : Notice(5):
+	Changed group: 1804289384 (arrogate:51870)
+2018-Apr-10 17:08:57.651402 : GroupManagement.cpp : Notice(5):
+	+ State Change REORGANIZATION : 454
+2018-Apr-10 17:08:57.651430 : GroupManagement.cpp : Notice(5):
+	+ State Change NORMAL : 457
+2018-Apr-10 17:08:57.651617 : CConnectionManager.cpp : Warn(3):
+	EP = [::1]:51870
+2018-Apr-10 17:08:57.651981 : GroupManagement.cpp : Notice(5):
+	Updated peer set (UPDATE)
+2018-Apr-10 17:08:58.182005 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 319 ms
+2018-Apr-10 17:08:58.182106 : CBroker.cpp : Notice(5):
+	Phase: sc for 319ms offset 00:00:00
+2018-Apr-10 17:08:58.182141 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Apr-10 17:08:58.182176 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Apr-10 17:08:58.501274 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 2) for 4099 ms
+2018-Apr-10 17:08:58.501347 : CBroker.cpp : Notice(5):
+	Phase: lb for 4099ms offset 00:00:00
+2018-Apr-10 17:08:58.501379 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Apr-10 17:08:58.501474 : LoadBalance.cpp : Notice(5):
+	Updated peer list received from: arrogate:51870
+2018-Apr-10 17:08:58.501545 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Apr-10 17:08:58.501621 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Apr-10 17:08:58.501666 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:51870
+	---------------------------------------------
+2018-Apr-10 17:08:58.501704 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Apr-10 17:08:58.501738 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Apr-10 17:08:59.409409 : CConnectionManager.cpp : Warn(3):
+	EP = 10.76.56.157:51871
+2018-Apr-10 17:08:59.409971 : CConnectionManager.cpp : Warn(3):
+	EP = 10.76.56.157:51872
+2018-Apr-10 17:08:59.410161 : CConnectionManager.cpp : Warn(3):
+	EP = 10.76.56.157:51873
+2018-Apr-10 17:08:59.410326 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00
+2018-Apr-10 17:09:02.600495 : CBroker.cpp : Notice(5):
+	Aligned phase to 2 (was 3) for 0 ms
+2018-Apr-10 17:09:02.600564 : CBroker.cpp : Notice(5):
+	Phase: lb for 0ms offset 00:00:00
+2018-Apr-10 17:09:02.600757 : CBroker.cpp : Notice(5):
+	Phase: vvc for 4100ms offset 00:00:00
+2018-Apr-10 17:09:02.600788 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for lb
+2018-Apr-10 17:09:02.600818 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 2
+2018-Apr-10 17:09:02.600858 : VoltVarCtrl.cpp : Notice(5):
+	Updated Peer List Received from: arrogate:51870
+Dl dimension:9*13
+Opendss Data: 
+632a 80.0
+632b 80.0
+632c 80.0
+670a 70.0
+670b 70.0
+670c 70.0
+671a 60.0
+671b 60.0
+671c 60.0
+680a 50.0
+680b 50.0
+680c 50.0
+633a 90.0
+633b 90.0
+633c 90.0
+634a 50.0
+634b 50.0
+634c 50.0
+635a 70.0
+635b 70.0
+635c 70.0
+Phase A B C NoBranches:   8.0000   8.0000   8.0000
+
+No. of Nodes:9
+Error! No Load Phase A!
+Error! No Load Phase B!
+Error! No Load Phase C!
+Error! No Q load Phase A!
+Error! No Q Load Phase B!
+Error! No Q Load Phase C!
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6733
+Vmax (p.u.) = 1.015
+Vmin (p.u.) = 0.995956
+max gradient=0.0014058	min grad=0.00081408(p.u.)
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6697
+
+ 
+ step-size at the 1th iteration = 0.368514
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6693
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6693
+
+ 
+ step-size at the 2th iteration = 0.405366
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.669
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.669
+
+ 
+ step-size at the 3th iteration = 0.445902
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6686
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6686
+
+ 
+ step-size at the 4th iteration = 0.490493
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6681
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6681
+
+ 
+ step-size at the 5th iteration = 0.539542
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6676
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6676
+
+ 
+ step-size at the 6th iteration = 0.593496
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6671
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6671
+
+ 
+ step-size at the 7th iteration = 0.652846
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6665
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6665
+
+ 
+ step-size at the 8th iteration = 0.71813
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6659
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6659
+
+ 
+ step-size at the 9th iteration = 0.789943
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6652
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6652
+
+ 
+ step-size at the 10th iteration = 0.868937
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6645
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6645
+
+ 
+ step-size at the 11th iteration = 0.955831
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6637
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6637
+
+ 
+ step-size at the 12th iteration = 1.05141
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6629
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6629
+
+ 
+ step-size at the 13th iteration = 1.15656
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.662
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.662
+
+ 
+ step-size at the 14th iteration = 1.27221
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6611
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6611
+
+ 
+ step-size at the 15th iteration = 1.39943
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6601
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6601
+
+ 
+ step-size at the 16th iteration = 1.53938
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.659
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.659
+
+ 
+ step-size at the 17th iteration = 1.69331
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6579
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6579
+
+ 
+ step-size at the 18th iteration = 1.86264
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6567
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6567
+
+ 
+ step-size at the 19th iteration = 2.04891
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6555
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6555
+
+ 
+ step-size at the 20th iteration = 2.2538
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6542
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6542
+
+ 
+ step-size at the 21th iteration = 2.47918
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.653
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.653
+
+ 
+ step-size at the 22th iteration = 2.7271
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6518
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6518
+
+ 
+ step-size at the 23th iteration = 2.99981
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6506
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6506
+
+ 
+ step-size at the 24th iteration = 3.29979
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6494
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6494
+
+ 
+ step-size at the 25th iteration = 3.62977
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6484
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6484
+
+ 
+ step-size at the 26th iteration = 3.99274
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6476
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6476
+
+ 
+ step-size at the 27th iteration = 4.39202
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6471
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.6471
+
+ 
+ step-size at the 28th iteration = 4.83122
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.647
+Run DPF on 9 Nodes System
+ DPF converged!
+total load (kW) per phase:   3.0500e+02   3.0500e+02   3.0500e+02
+
+total loss (kW):11.647
+
+ 
+ step-size at the 29th iteration = 5.31434
+Run DPF on 9 Nodes System
+ DPF converged!
+total loss (kW):11.6473
+ Best step-size obtained! Searching ends at the 29th iteration 
+ Expected power loss (kW) = 11.647
+ Expected power loss reduction (kW) = 0.0263049
+2018-Apr-10 17:09:02.614802 : VoltVarCtrl.cpp : Notice(5):
+	Got VoltageDelta from: arrogate:51870
+2018-Apr-10 17:09:02.614913 : VoltVarCtrl.cpp : Notice(5):
+	CF 2 Phase 3
+2018-Apr-10 17:09:02.614955 : VoltVarCtrl.cpp : Notice(5):
+	Got Gradients from arrogate:51870
+2018-Apr-10 17:09:02.614983 : VoltVarCtrl.cpp : Notice(5):
+	size of vector 21
+2018-Apr-10 17:09:02.615010 : VoltVarCtrl.cpp : Notice(5):
+	the 1st element = -1.87148
+2018-Apr-10 17:09:06.700941 : CBroker.cpp : Notice(5):
+	Aligned phase to 0 (was 0) for 530 ms
+2018-Apr-10 17:09:06.701361 : CBroker.cpp : Notice(5):
+	Phase: gm for 530ms offset 00:00:00
+2018-Apr-10 17:09:06.701685 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for vvc
+2018-Apr-10 17:09:06.701973 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 4
+2018-Apr-10 17:09:06.702271 : GroupManagement.cpp : Status(4):
+	Group Bitfield : 11000000000000000000000000000000
+2018-Apr-10 17:09:06.702572 : GroupManagement.cpp : Status(4):
+	Group Float : 4.2039e-45
+2018-Apr-10 17:09:06.702914 : GroupManagement.cpp : Status(4):
+	- SYSTEM STATE
+Me: arrogate:51870, Group: 1804289384 Leader:arrogate:51870
+SYSTEM NODES
+Node: arrogate:51870 State: Up (Me, Coordinator)
+Node: arrogate:51871 State: Unknown
+Node: arrogate:51872 State: Unknown
+Node: arrogate:51873 State: Unknown
+FID state: 0
+Current Skew: 00:00:00
+Time left in phase: 00:00:00.528032
+
+2018-Apr-10 17:09:06.844369 : CPhysicalTopology.cpp : Warn(3):
+	No topology configuration file specified
+2018-Apr-10 17:09:06.844430 : GroupManagement.cpp : Warn(3):
+	Physical Topology not available. Groups will form using cyber topology only.
+2018-Apr-10 17:09:07.233687 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 1) for 317 ms
+2018-Apr-10 17:09:07.233767 : CBroker.cpp : Notice(5):
+	Phase: sc for 317ms offset 00:00:00
+2018-Apr-10 17:09:07.233799 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for gm
+2018-Apr-10 17:09:07.233833 : CBroker.cpp : Notice(5):
+	Scheduling task for next time timer: 0
+2018-Apr-10 17:09:07.233887 : StateCollection.cpp : Status(4):
+	Device Item:  ..SST:gateway
+2018-Apr-10 17:09:07.233918 : StateCollection.cpp : Notice(5):
+	Receiving state collect request from lb ( arrogate:51870 )
+2018-Apr-10 17:09:07.233986 : StateCollection.cpp : Status(4):
+	Device:   SST  Signal:  gateway Value:  0
+2018-Apr-10 17:09:07.550982 : CBroker.cpp : Notice(5):
+	Aligned phase to 1 (was 2) for 0 ms
+2018-Apr-10 17:09:07.551054 : CBroker.cpp : Notice(5):
+	Phase: sc for 0ms offset 00:00:00
+2018-Apr-10 17:09:07.551106 : CBroker.cpp : Notice(5):
+	Phase: lb for 4100ms offset 00:00:00
+2018-Apr-10 17:09:07.551253 : CBroker.cpp : Notice(5):
+	Changed Phase: expiring next time timers for sc
+2018-Apr-10 17:09:07.551342 : LoadBalance.cpp : Status(4):
+	Recognize 0 attached SST devices.
+2018-Apr-10 17:09:07.551401 : LoadBalance.cpp : Status(4):
+	NET dedsd VALUES: 0 SST values0
+2018-Apr-10 17:09:07.551432 : LoadBalance.cpp : Status(4):
+	------- LOAD TABLE (Power Management) -------
+	Net DRER (00):  0.00
+	Net Desd (00):  0.00
+	Net Load (00):  0.00
+	---------------------------------------------
+	SST Gateway:    0.00
+	Net Generation: 0.00
+	Predicted K:    0.00
+	---------------------------------------------
+	(NORMAL) arrogate:51870
+	---------------------------------------------
+2018-Apr-10 17:09:07.551485 : LoadBalance.cpp : Notice(5):
+	Draft Request Cancelled: state too old
+2018-Apr-10 17:09:07.551527 : LoadBalance.cpp : Warn(3):
+	Failed to set Desd: no attached Desd device
+2018-Apr-10 17:09:09.410726 : CClockSynchronizer.cpp : Notice(5):
+	Adjusting Skew to 00:00:00
+2018-Apr-10 17:09:11.525260 : CAdapterFactory.cpp : Fatal(0):
+	Fatal exception in the device ioservice: Synchronous Read Failed
+2018-Apr-10 17:09:11.525386 : CAdapterFactory.cpp : Status(4):
+	The adapter i/o service has stopped.
+2018-Apr-10 17:09:11.525432 : CBroker.cpp : Fatal(0):
+	Caught signal 15. Shutting Down...
